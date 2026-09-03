@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="./assets/exact/orynth-profile-logo.png" width="116" alt="ORYNTH symbol">
-  <br><br>
-  <img src="./assets/exact/orynth-hero.png" width="100%" alt="ORYNTH — constitutional execution governance">
+  <img src="./assets/exact/orynth-hero.png" width="100%" alt="ORYNTH â€” constitutional execution governance">
 </div>
 
 <br>
@@ -28,7 +26,7 @@
     <td width="50%"><a href="https://github.com/ORYNTH-systems/requiem-pandemonium"><img src="./assets/exact/requiem-pandemonium.png" width="100%" alt="Requiem Pandemonium"></a></td>
   </tr>
   <tr>
-    <td><strong>Morning Star</strong><br>Constitutional continuity and bounded authority.<br><a href="https://doi.org/10.5281/zenodo.21781363">Architectural record</a> · <a href="https://doi.org/10.5281/zenodo.21970793">Formal specification</a></td>
+    <td><strong>Morning Star</strong><br>Constitutional continuity and bounded authority.<br><a href="https://doi.org/10.5281/zenodo.21781363">Architectural record</a> Â· <a href="https://doi.org/10.5281/zenodo.21970793">Formal specification</a></td>
     <td><strong>Requiem Pandemonium</strong><br>Adversarial containment and terminal resolution.<br><a href="https://doi.org/10.5281/zenodo.21970894">Architectural record</a></td>
   </tr>
 </table>
@@ -50,9 +48,9 @@
 
 ### Evidence and implementation
 
-- [AI Governance Crosswalk](https://github.com/ORYNTH-systems/ai-governance-crosswalk) — governance obligations mapped to executable controls.
-- [Audit Framework](https://github.com/ORYNTH-systems/audit-framework) — evidence-oriented review and verification.
-- [Healthcare 100 Proof Suite](https://github.com/ORYNTH-systems/healthcare-100-proof-suite) — high-assurance domain proof suite.
+- [AI Governance Crosswalk](https://github.com/ORYNTH-systems/ai-governance-crosswalk) â€” governance obligations mapped to executable controls.
+- [Audit Framework](https://github.com/ORYNTH-systems/audit-framework) â€” evidence-oriented review and verification.
+- [Healthcare 100 Proof Suite](https://github.com/ORYNTH-systems/healthcare-100-proof-suite) â€” high-assurance domain proof suite.
 
 ## Primary architectural records
 
@@ -68,5 +66,5 @@
 
 <div align="center">
   <strong>STRUCTURE OVER CHAOS. CONSTITUTION OVER WILL.</strong><br>
-  <sub><a href="https://unifiedagencyarchitecture.org">unifiedagencyarchitecture.org</a> · research@orynth.net</sub>
+  <sub><a href="https://unifiedagencyarchitecture.org">unifiedagencyarchitecture.org</a> Â· research@orynth.net</sub>
 </div>
