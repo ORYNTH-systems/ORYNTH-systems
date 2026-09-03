@@ -37,7 +37,7 @@ A system may be technically capable of producing an action without possessing th
     </td>
     <td width="50%" align="center">
       <a href="./navigation/publications.md">
-        <img src="./assets/exact/publications.png" width="100%" alt="ORYNTH Publications">
+        <img src="./assets/exact/publications-balanced.png" width="100%" alt="ORYNTH Publications">
       </a>
     </td>
   </tr>
